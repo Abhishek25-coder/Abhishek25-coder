@@ -52,52 +52,37 @@
 </p>
 
 ---
-
 ## 🚀 Featured Projects
 
-### 1. 🩺 Disease Prediction System
+### 🩺 1. Disease Prediction System
+Machine learning application for predicting disease risk using patient health data.
 
-A machine learning application that predicts disease risk using patient health data.
+- Tech: Python, Scikit-learn, Streamlit, XGBoost
+- Models: SVM, Logistic Regression, Random Forest
+- Features: Data preprocessing, model comparison, interactive predictions.
 
-- Algorithms: SVM, Logistic Regression, Random Forest, XGBoost
-- Tools: Python, Pandas, Scikit-learn, Streamlit
-- Interactive interface for entering health parameters and viewing predictions.
+### 🧠 2. Emotion Recognition System
+Deep learning project for recognizing human emotions from input data.
 
-**Highlights:** Model comparison, data preprocessing, and an interactive ML application.
+- Tech: Python, Deep Learning, TensorFlow/PyTorch (as used)
+- Focus: Emotion classification and model evaluation.
+- Applications: Human-computer interaction and emotion-aware systems.
 
-<!-- Replace with your actual repository URL -->
-🔗 [View Project](https://github.com/Abhishek25-coder)
+### 🚗 3. Vehicle Rental System
+A software application for managing vehicle rentals and bookings.
 
+- Tech: Java / Python / your actual technology stack
+- Features: Vehicle listings, rental bookings, customer management.
+- Focus: Simplifying vehicle rental operations.
+
+### 🌿 4. Plant Disease Detection
+Deep learning-based plant disease classification from leaf images.
+
+- Tech: Python, CNN, Deep Learning
+- Focus: Image classification and disease identification.
 ---
 
-### 2. 🧠 Transformer-Based Sentiment Analysis
-
-A research project comparing transformer models for sentiment analysis.
-
-- Models: BERT, RoBERTa, DistilBERT
-- Focus: NLP, text classification, and model evaluation
-- Metrics: Accuracy, Precision, Recall, and F1-score.
-
-**Highlights:** Comparative analysis of transformer-based NLP models.
-
-<!-- Add the research repository link when available -->
-🔗 [Explore My Repositories](https://github.com/Abhishek25-coder?tab=repositories)
-
----
-
-### 3. 🌿 Plant Disease Detection
-
-A deep learning project focused on identifying plant diseases from leaf images.
-
-- Focus: Image classification and computer vision
-- Technologies: Python, CNN, Deep Learning
-- Goal: Automated plant disease recognition.
-
-<!-- Replace with the actual repository link -->
-🔗 [View My Projects](https://github.com/Abhishek25-coder?tab=repositories)
-
----
-
+🔗 [Explore All My Repositories](https://github.com/Abhishek25-coder?tab=repositories)
 ## 📊 GitHub Statistics
 
 <div align="center">
